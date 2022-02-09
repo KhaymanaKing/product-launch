@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;600&family=Space+Mono&display=swap');
+* {/* CSS HEX */
+   /* CSS HEX */
+--burnt-umber: #83291Cff;
+--bistre: #271D16ff;
+--rust: #BD4A25ff;
+--coffee: #6E5643ff;
+
+}
+body {
+    background-color: var(--dark-lava);
+    font-family: 'Roboto Slab', serif;
+}
+
+#img {
+    width: 1000vw;
+}
+
+#info{
+color: var(--eerie-black);
+}
