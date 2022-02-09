@@ -8,7 +8,7 @@
 
 }
 body {
-    background-color: var(--dark-lava);
+    background-color: var(--coffee);
     font-family: 'Roboto Slab', serif;
 }
 
@@ -17,5 +17,5 @@ body {
 }
 
 #info{
-color: var(--eerie-black);
+color: var(--bistre);
 }
