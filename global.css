@@ -8,18 +8,35 @@
 }
 
 body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     background-color: var(--cedar-chest);
     font-family: 'Roboto Slab', serif;
 }
 
 img {
-    width: 1000px;
+    width: 30%;
+    height: 10%
+
 }
 
-info{
+.info{
 color: var(--bistre);
 }
 form {
+    display: flex;
+    border: solid 1px black;
     font-weight: 600;
     color: var(--rust);
+    
 }
+.hide{
+    display: none;
+    
+}
+
+h1 {text-align: center;}
+
+p {text-align:  center;}
